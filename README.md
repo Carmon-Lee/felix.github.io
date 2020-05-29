@@ -23,10 +23,12 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://carmon-lee.github.io/felix.github.io/about/contact-me.md) and ![Image](src)
+[关于作者](https://carmon-lee.github.io/felix.github.io/about/contact-me.md) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+[关于作者](https://carmon-lee.github.io/felix.github.io/about/contact-me.md)
 
 ### Jekyll Themes
 
